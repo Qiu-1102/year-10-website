@@ -1,17 +1,20 @@
 
 body {
     background-color: rgb(255, 235, 228);
- 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 img{
     float: right;
     height:170px
+    
 }
 .top-img{
     height: 200x;
+    border-radius: 8px
 }
 .main-img{
     height: 250px;
+    border-radius: 10px;
 
 }
 
